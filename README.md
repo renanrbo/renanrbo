@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm Renan
+
+🎓 Currently studying **Web Development** through [The Odin Project](https://www.theodinproject.com/).  
+💻 Interested in **JavaScript, Node.js, React**, and best development practices.  
+🚀 Focused on consolidating knowledge and building projects from scratch.  
+
 
 <!--
 **renanrbo/renanrbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
