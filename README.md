@@ -4,7 +4,7 @@
 
 💻 I am a IT technician
 
-🎓 I study [[Web Development](https://www.theodinproject.com/)
+🎓 I study ![[Web Development](https://www.theodinproject.com/)]
 
 👩‍💻 I currently work as IT technician at Spassu Tecnologia.
 
