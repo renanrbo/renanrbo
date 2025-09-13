@@ -1,21 +1,14 @@
-# 👋 Hi, I'm Renan
+# Hi, my name is Renan 👋
 
-🎓 Currently studying **Web Development** through [The Odin Project](https://www.theodinproject.com/).  
-💻 Interested in **JavaScript, Node.js, React**, and best development practices.  
-🚀 Focused on consolidating knowledge and building projects from scratch.  
+### About me
 
+💻 I am a IT technician
 
-<!--
-**renanrbo/renanrbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I study [[Web Development](https://www.theodinproject.com/)
 
-Here are some ideas to get you started:
+👩‍💻 I currently work as IT technician at Spassu Tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Eu estou estudando... 🧩
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
